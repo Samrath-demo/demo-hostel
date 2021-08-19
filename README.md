@@ -1,5 +1,5 @@
 # demo-hostel
-saamrath
-dayeen
-harsh 
-suhas
+Samrath
+Dayeen
+Harsh 
+Suhas
